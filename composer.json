@@ -1,6 +1,6 @@
 {
-    "name": "laravel/sanctum",
-    "description": "Laravel Sanctum provides a featherweight authentication system for SPAs and simple APIs.",
+    "name": "itsmill3rtime/sanctum",
+    "description": "Laravel Sanctum modded for MongoDB support.",
     "keywords": ["laravel", "sanctum", "auth"],
     "license": "MIT",
     "support": {
